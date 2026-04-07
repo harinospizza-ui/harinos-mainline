@@ -17,7 +17,7 @@
     "food",
     "shopping"
   ],
-  "prefer_related_applications": false,
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "/icon-192.png",
