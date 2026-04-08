@@ -149,7 +149,7 @@ const App: React.FC = () => {
       }
 
       setIsStoreOpen(false);
-      setStatusMessage('Orders are being prepared fresh.');
+      setStatusMessage('Maintenance Break.');
     };
 
     checkStoreStatus();
